@@ -1,0 +1,171 @@
+.navbar-dark .navbar-nav .show > .nav-link, .navbar-dark .navbar-nav .active > .nav-link, .navbar-dark .navbar-nav .nav-link.show, .navbar-dark .navbar-nav .nav-link.active{
+    background-color: #f6e58d;
+}
+html {
+    font-size: 62.5%;
+}
+#navigation{
+    position: sticky;
+    top: 0.5vh;
+    z-index: 2;
+}
+body {}
+
+.container {}
+
+#hope li a {
+    color: #ff3838;
+    font-size: 1.8rem;
+}
+
+.navbar-brand {
+    font-size: 3rem;
+    color: #3c40c6;
+}
+
+#c1 {
+    height: 50vh;
+}
+
+#c2 {
+    height: 50vh;
+}
+
+#c3 {
+    height: 50vh;
+}
+
+.carousel-inner h2 {
+    color: black;
+    background-color: white;
+}
+
+.carousel-inner p {
+    color: black;
+    background-color: white;
+}
+
+
+#myself {
+    height: 60vh;
+}
+
+#brother {
+    height: 60vh;
+}
+
+#family {
+    height: 60vh;
+}
+
+#study {
+    height: 35vh;
+}
+
+#photography {
+    height: 35vh;
+}
+
+#technology {
+    height: 35vh;
+}
+
+ #whatsapp {
+    height: 7vh;
+    width: 7vh;
+}
+
+#gmail {
+    height: 7vh;
+    width: 7vh;
+}
+
+#facebook {
+    height: 7vh;
+    width: 7vh;
+}
+
+.about hi {
+    font-weight: bolder;
+}
+
+
+/* media queries */
+@media only screen and (max-width:760px) {
+
+    #c1 {
+        height: 30vh;
+    }
+
+    #c2 {
+        height: 30vh;
+    }
+
+    #c3 {
+        height: 30vh;
+    }
+}
+
+@media only screen and (max-width:420px) {
+
+    #c1 {
+        height: 20vh;
+    }
+
+    #c2 {
+        height: 20vh;
+    }
+
+    #c3 {
+        height: 20vh;
+    }
+}
+
+@media only screen and (max-width:760px) {
+
+    #c1 {
+        height: 30vh;
+    }
+
+    #c2 {
+        height: 30vh;
+    }
+
+    #c3 {
+        height: 30vh;
+    }
+}
+
+@media only screen and (max-width:768px) {
+
+
+    #std {
+        margin: 20px;
+    }
+
+    #pht {
+        margin: 20px;
+    }
+
+    #tch {
+        margin: 20px;
+    }
+}
+@media only screen and (max-width:768px) {
+  #whatsapp {
+        height: 3vh;
+        width: 3vh;
+    }
+    
+    #gmail {
+        height: 3vh;
+        width: 3vh;
+    }
+    
+    #facebook {
+        height: 3vh;
+        width: 3vh;
+    }
+
+  
+}
